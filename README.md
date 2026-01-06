@@ -106,6 +106,8 @@ wiki
 
 
 
+
+- 🎬 [LAST MAN-全盲搜查官- FAKE／TRUTH (2025)](./movies/LAST-MAN-全盲搜查官--FAKE-TRUTH-c4a5f665edfd4543.md) - 2026/1/7
 - 🎬 [醉画仙 (2002)](./movies/醉画仙-74deb77e6363d0ce.md) - 2026/1/7
 - 🎬 [28个旅馆房间 (2012)](./movies/28个旅馆房间-7657e02241cded08.md) - 2026/1/7
 - 🎬 [武士 (2001)](./movies/武士-772de040389f898e.md) - 2026/1/7
