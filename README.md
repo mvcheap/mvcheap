@@ -109,6 +109,8 @@ wiki
 
 
 
+
+- 📺 [穿格子衬衫的男人 (2025)](./movies/穿格子衬衫的男人-96a6aba2516fee55.md) - 2026/1/7
 - 🎬 [若即若离 (2025)](./movies/若即若离-1edb4bb1070e4e6c.md) - 2026/1/7
 - 🎬 [保持爱你 (2009)](./movies/保持爱你-830550f771c28b6b.md) - 2026/1/7
 - 🎬 [LAST MAN-全盲搜查官- FAKE／TRUTH (2025)](./movies/LAST-MAN-全盲搜查官--FAKE-TRUTH-c4a5f665edfd4543.md) - 2026/1/7
