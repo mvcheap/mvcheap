@@ -1816,6 +1816,8 @@ wiki
 
 
 
+
+- 🎬 [成为朱莉娅 (2004)](./movies/成为朱莉娅-b376d87176558aa2.md) - 2026/1/8
 - 🎬 [奥姆罗劫案 (2025)](./movies/奥姆罗劫案-cc4ccc1945b346ab.md) - 2026/1/8
 - 🎬 [原始恐惧 (2010)](./movies/原始恐惧-7279d6a0e607991f.md) - 2026/1/8
 - 🎬 [LAST MAN-全盲搜查官- FAKE／TRUTH (2025)](./movies/LAST-MAN-全盲搜查官--FAKE-TRUTH-69e58ba5a96adff5.md) - 2026/1/7
