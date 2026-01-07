@@ -701,6 +701,8 @@ wiki
 
 
 
+
+- 🎬 [战栗黑洞 (1994)](./movies/战栗黑洞-354a99966a40eac2.md) - 2026/1/7
 - 📺 [公益律师 (2025)](./movies/公益律师-53b1fede2ce7ead6.md) - 2026/1/7
 - 🎬 [杀手阿一 (2001)](./movies/杀手阿一-7a92fb9371bfa8c2.md) - 2026/1/7
 - 🎬 [[BT下载][Prep.&.Landing:.The.Snowball.Protocol][WEB-MKV/0.88GB][简繁英字幕][1080P][HDR版本][流媒体][DreamHD] (2026)](./movies/-BT下载--Prep---Landing--The-Snowball-Protocol--WEB--e01aec60a3100f23.md) - 2026/1/7
