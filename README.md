@@ -1048,6 +1048,8 @@ wiki
 
 
 
+
+- 🎬 [[BT下载][天鹰战士：最后的冲击][BD-MKV/8.90GB][粤日多音轨/粤语配音/中文字幕][1080P][H265编码][蓝光压制][QuickIO] (2026)](./movies/-BT下载--天鹰战士-最后的冲击--BD-MKV-8-90GB--粤日多音轨-粤语配音-中文字幕--76e801e16aa9f336.md) - 2026/1/7
 - 🎬 [[BT下载][德古拉的女儿][BD-MKV/12.77GB][简繁英字幕][4K-2160P][HDR版本][H265编码][蓝光压制][ParkHD] (2026)](./movies/-BT下载--德古拉的女儿--BD-MKV-12-77GB--简繁英字幕--4K-2160P--HD-16289bd01d961b03.md) - 2026/1/7
 - 🎬 [[BT下载][Harimau.Merah：Konflik.Bermula][WEB-MKV/3.42GB][中文字幕][1080P][流媒体][DreamHD] (2026)](./movies/-BT下载--Harimau-Merah-Konflik-Bermula--WEB-MKV-3-42-e335d920d923941a.md) - 2026/1/7
 - 🎬 [[BT下载][E.T.外星人][BD-MKV/50.70GB][国英多音轨/简繁英字幕][4K-2160P][HDR版本][蓝光压制][DreamHD] (2026)](./movies/-BT下载--E-T-外星人--BD-MKV-50-70GB--国英多音轨-简繁英字幕--4K-21-fd46cdd5c7ab06c8.md) - 2026/1/7
