@@ -1813,6 +1813,8 @@ wiki
 
 
 
+
+- 🎬 [LAST MAN-全盲搜查官- FAKE／TRUTH (2025)](./movies/LAST-MAN-全盲搜查官--FAKE-TRUTH-69e58ba5a96adff5.md) - 2026/1/7
 - 🎬 [LAST MAN-全盲搜查官- FAKE／TRUTH (2025)](./movies/LAST-MAN-全盲搜查官--FAKE-TRUTH-6854abd74aedf7a5.md) - 2026/1/7
 - 🎬 [代号猛虎行动 (2012)](./movies/代号猛虎行动-077e1ab4a0a27c82.md) - 2026/1/7
 - 🎬 [笑林老祖 (1995)](./movies/笑林老祖-b4d79ede1dd0fe24.md) - 2026/1/7
