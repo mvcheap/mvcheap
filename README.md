@@ -1227,6 +1227,8 @@ wiki
 
 
 
+
+- 🎬 [[BT下载][我父亲是BTK连环杀手][WEB-MKV/10.31GB][简繁英字幕][4K-2160P][HDR版本][H265编码][流媒体][PandaQT] (2026)](./movies/-BT下载--我父亲是BTK连环杀手--WEB-MKV-10-31GB--简繁英字幕--4K-216-d0bce0a2e0ba71fa.md) - 2026/1/7
 - 🎬 [[BT下载][Waktu.Maghrib.2][WEB-MKV/4.35GB][无字片源][1080P][流媒体][DreamHD] (2026)](./movies/-BT下载--Waktu-Maghrib-2--WEB-MKV-4-35GB--无字片源--1080-bdec555c047a99ca.md) - 2026/1/7
 - 🎬 [[BT下载][蜗牛回忆录][BD-MKV/17.54GB][国英多音轨/简繁英字幕][4K-2160P][HDR版本][H265编码][蓝光压制][ParkHD] (2026)](./movies/-BT下载--蜗牛回忆录--BD-MKV-17-54GB--国英多音轨-简繁英字幕--4K-2160-c5891d6eed545a75.md) - 2026/1/7
 - 🎬 [[BT下载][腐花之雨][BD-MKV/5.47GB][简繁字幕][1080P][H265编码][蓝光压制][CTRLHD] (2026)](./movies/-BT下载--腐花之雨--BD-MKV-5-47GB--简繁字幕--1080P--H265编码--蓝-98ad0a108796f476.md) - 2026/1/7
